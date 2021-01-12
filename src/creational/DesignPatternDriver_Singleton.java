@@ -1,6 +1,6 @@
 package creational;
 
-public class DesignPatternDriver {
+public class DesignPatternDriver_Singleton {
 
 	public static void main(String[] args) {
 		Singleton s1=Singleton.getinstance();

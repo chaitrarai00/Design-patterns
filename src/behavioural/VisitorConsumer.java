@@ -1,5 +1,9 @@
 package behavioural;
-
+/*
+ * Helps to perform operation collectively on group of objects instead of individual objects
+ * like we can accept and get cost of all the objects(burger and Pizza) and work on providing offers
+ * without changing the specific class only by changing visitorIMPl
+ */
 public class VisitorConsumer {
 
 	public static void main(String[] args) {
